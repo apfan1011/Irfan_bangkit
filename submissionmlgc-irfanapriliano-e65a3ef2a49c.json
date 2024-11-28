@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-irfanapriliano",
+  "private_key_id": "e65a3ef2a49c18dfb1b3bbeea84165ab31b54462",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyiTlgV1EG4n4q\nhWqe3PF6DsVX+iorPTV1KWqSmNtD4Riwf1j6GzVlS3p3zqqMdiIXHCzxCTDNx4ac\nJKDBqLcexu+3EBpjDCPuIbZdDCAv3JLj1JR4E+4+pPYXTcxFZ3C4MB4lJgedLDUp\ntrnIyalTYXNXw7eRSthRHxAeY6BcKgSZmzD0n5XlNl0unW3urwAZevwDzKNTJT7A\nqu/tSWdn/xphGYVPl7V32EMU8sfa1cuhCvkWLOAwTipXCuGSAZJ1AI72655ISWAE\nmpS9WSHAF4Z/aPxOLuqnqh/BmKiJCH9+v5uXnIQWcx+xiF7ilhUjQdjaBgyohziZ\nPOSdQCwpAgMBAAECggEACEVhcDhHV5BvXCCvbHHrqXYM+CsNoFBu/TEon+c/NDU1\nx7p0mKyhRAKzxyBeyBBServaTKXaehQJ5UqwnFwotJ8ufI59THSj5vyulj+xL4py\nTyX6ZVg2B7asdG6tHZOB1jSbdujcvjAtu9OcZoQKKUPY3Dpj0xIytIph/KhspcxU\nOF9B7LzvtOOG5lfj6gtAQOAzs3gRz+CySyllPZ5JJxBnK6DltaqROSzMfoJBmMM7\ny31wn36KaPvXjJjbLyb6Zt78vavCSmJnuHI19YVlNsvla1YX7scr5yj2UEsPY6/q\n0NXYq/IS9U6nVmxM0Ma6zx7YWwG9YdaRgjsyj9WzIQKBgQDXPbkeGzOypmRazdwi\nd7UMapaXypS4OOflmQKkqznsquhL0msvSnir+XR4T0UKxkcG+6OcDSaGjUyIpfyn\nBOkcdnogRjRjf4sltDkd1l+DMzKuF9Os3xSji9KtXoWfso8bU7BxQe0e9sAhFAPN\nyMhWtR+rEW8II5LIj02K8SqHIQKBgQDUWCSztRTgTGhQPEi9kCcGwo10AhgDDaIl\ngvU19L/JYLl9PZJoph/LcmTKJT4XuHcR55rveDSTM+rPbcG30LyMuwxnfSUOnEp+\nE3d9cDxpNq4Va7QFgiu6FHxVORrshztHwLh2/J0zcw8nChDPR2UTsunYjO/7hbp4\nrV4220/sCQKBgGicSxhiyCGP1T58xvzJiWjbdQ2ZG+bdYXepgitePOzVs8kGH6oA\nW93Zg83lWPz/mQ2/x6jUi2Dh08ymP8E9Fb8LpheBh3zERHCywv/JbOprO7p5QhvG\n4FUMY/x28CLJudviNOMW05Q1APQSsjaV2yipJxcRhhFCmNh5LYrV44GBAoGACvyw\nkXfaJ6zsbNJhtSVDT687YHhHQ8ktzaEUDQGn9sSBdIB+FdoapQ07N9ZrexC5YHzK\nYH+owMEb8jWso1UynFmFT8mC5Fmj5Rgew6fOCGei5ErZWruchZlPwZ0dzoVExPas\n1MNHYwUeEJgNvJvmF/nW7bSFKk+GEX5u9ImuffkCgYB+20B7sDFrhwcZB50eXbE8\niVBN2F5O6yp1jsXX8DU4Ea1D/QOFWfPYCP2UjOfVPJy69w19soSuwKZdDoB1dbs7\nXshXlRRALKzfv/pQ5+lQpm9l5GMj31zjeLp70ru5k3J9/O4HIGeFGhM8uPpNNJyo\nwqQSnj3isBWXAN9uZ4ZT/A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "irfan-726@submissionmlgc-irfanapriliano.iam.gserviceaccount.com",
+  "client_id": "104559609532076700550",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/irfan-726%40submissionmlgc-irfanapriliano.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
